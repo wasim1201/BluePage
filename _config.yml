@@ -38,6 +38,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  
+  
+  
+  url:"http://www.wasimakhtar.in"
+  
     
 # Archives
 jekyll-archives:
