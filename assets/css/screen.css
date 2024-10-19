@@ -305,7 +305,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: cursive;
+    font-family: 'Courier New', Courier, monospace;
     color: darkblue;
     
 }
