@@ -1,7 +1,7 @@
 # Site
 name: "BluePage"
 title: "BluePage"
-description: "Blue Page is the source of information of various kind."
+description: "Blue Page is the source of informations of various kind."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
