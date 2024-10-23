@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blue Page | A Passion
+title: Blue Page 
 permalink: /about
 comments: true
 ---
