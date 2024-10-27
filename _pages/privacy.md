@@ -4,7 +4,6 @@ title:
 permalink: /privacy
 comments: true
 ---
-# Privacy Policy for BluePage
 Effective Date: [21/10/2024]
 
 BluePage ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website, [www.bluepage.com] (the "Site"). Please read this privacy policy carefully. If you do not agree with the terms of this policy, please do not access the site.
