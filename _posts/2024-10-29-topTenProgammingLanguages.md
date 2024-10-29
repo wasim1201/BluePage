@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Top 10 Programming Languages to Learn in 2025"
-author: sal
+author: Wasim Akhtar
 categories: [ Tech | Programming Languages]
 image: assets/images/15.jpg
+description:Programming languages are the backbone of technology, evolving and advancing with time to meet the needs of modern industries.
 
 ---
 
