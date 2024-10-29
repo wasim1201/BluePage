@@ -1,12 +1,17 @@
 ---
 layout: post
 title:  "Top 10 Programming Languages to Learn in 2025"
-author: Wasim Akhtar
+author: Wasim
 categories: [ Tech | Programming Languages]
-image: assets/images/15.jpg
-description:Programming languages are the backbone of technology, evolving and advancing with time to meet the needs of modern industries.
+image: assets/images/programming-languages.jpg
+description: Programming languages are the backbone of technology, evolving and advancing with time to meet the needs of modern industries.
 
 ---
+
+Programming languages are the backbone of technology, evolving and advancing with time to meet the needs of modern industries.
+
+
+
 
 ## Introduction
 Programming languages are the backbone of technology, evolving and advancing with time to meet the needs of modern industries. In 2025, the tech landscape continues to transform, influenced by AI, machine learning, cloud computing, data science, and IoT. Selecting the right programming language can open doors to lucrative careers, high-impact projects, and pioneering technologies. Here, we highlight the top 10 programming languages to learn in 2025, exploring what makes each unique, where they are commonly used, and why they remain relevant.
