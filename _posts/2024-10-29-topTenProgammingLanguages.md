@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Top 10 Programming Languages to Learn in 2025"
-author: Wasim Akhtar
-categories: [ Tech | Programming Languages]
+author: wasim
+categories: [hindi]
 image: assets/images/programming-languages.jpg
+toc: true
 
 
 ---

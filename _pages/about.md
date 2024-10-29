@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blue Page 
+title: About Us 
 permalink: /about
 comments: true
 ---
