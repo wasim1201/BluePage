@@ -25,6 +25,11 @@
     <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet" />
 
     <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+    
+    
+    {% include google_analytics.html %}
+    {% include disqus_threads.html %}
+    
   </head>
 
   {% if jekyll.environment == 'production' %}
