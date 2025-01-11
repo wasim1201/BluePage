@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
 url: "https://www.wasimakhtar.in"
-disqus:shortname: 'bluepage-1'
+disqus_threads:shortname: 'bluepage-1'
 #Google Analytics added
 # google_analytics: 'UA-46278016-1'
 google_analytics: 'G-0NJX8YNLFK'
