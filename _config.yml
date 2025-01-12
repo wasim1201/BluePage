@@ -1,7 +1,7 @@
 # Site
 name: "BluePage"
 title: "BluePage"
-description: "Blue Page is the source of informations of various kind."
+description: "Blue Page is the source of information of various kinds."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
@@ -17,22 +17,22 @@ permalink: /:title/
 
 # Authors
 authors:
-  wasim:
+  Wasim:
     name: Wasim Akhtar
     display_name: Wasim Akhtar
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wasim@BluePage.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    email: wasim@wasimakhtar.in
+    web: https://www.wasimakhtar.in/
+    twitter: https://twitter.com/wasimakhtar234
     description: "I connect with readers around the world, offering valuable insights and fresh perspectives that make a lasting impact. Whether  sharing personal stories, practical tips, or the latest trends."
-  wasim akhtar:
+  Wasim Akhtar:
     name: Wasim Akhtar
     display_name: Wasim Akhtar
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    email: wasim@wasimakhtar.in
+    web: https://www.wasimakhtar.in/
+    twitter: https://twitter.com/wasimakhtar234
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
