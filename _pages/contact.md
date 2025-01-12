@@ -3,7 +3,7 @@ layout: page
 title: Contact Us
 date: 2024-10-29 21:10
 category: 
-author: wasim
+author: Wasim
 permalink: /contact-us
 tags: []
 summary: 
