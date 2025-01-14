@@ -2,7 +2,7 @@
 layout: page
 title:
 permalink: /privacy
-comments: true
+comments: false
 ---
 Effective Date: [21/10/2024]
 
