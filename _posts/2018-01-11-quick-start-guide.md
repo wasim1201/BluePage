@@ -4,7 +4,7 @@ title:  "Let's test spoilers"
 author: Wasim
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
-featured: true
+featured: false
 hidden: true
 ---
 
